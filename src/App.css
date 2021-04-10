@@ -1,13 +1,13 @@
 html, body, #root {
     font: 0.9rem sans-serif;
-    background: #0a1f44;
+    background: #f5ededb7;
     color: #1e2432;
     height: 100%;
     margin: 0;
 }
 
 .main-container {
-    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418) ), url('https://hdwallpaper20.com/wp-content/uploads/2017/07/wallpaper-wp4001752.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418) ), url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mlh-logo-color.svg/1920px-Mlh-logo-color.svg.png');
     background-size: cover;
     background-position: center;
 }
